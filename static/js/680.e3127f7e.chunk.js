@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkexperiment_5_lazy=self.webpackChunkexperiment_5_lazy||[]).push([[680],{680(e,n,s){s.r(n),s.d(n,{default:()=>a});var r=s(579);const a=function(){return(0,r.jsxs)("div",{children:[(0,r.jsx)("h2",{children:"Lazy Loaded Component"}),(0,r.jsx)("p",{children:"User name is MAHIVARDHANREDDY."})]})}}}]);
+//# sourceMappingURL=680.e3127f7e.chunk.js.map
